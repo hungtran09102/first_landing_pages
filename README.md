@@ -1,2 +1,2 @@
 # first_landing_pages
-# this is the first landing page i build feedback are welcomegit git 
+# this is the first landing page i build feedback are welcome 
